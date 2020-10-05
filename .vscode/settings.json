@@ -1,0 +1,21 @@
+{
+	"[php]": {
+    	    "editor.formatOnSave": true
+    	},
+    	"html.format.contentUnformatted": "pre,code,textarea",
+    	"html.format.endWithNewline": false,
+    	"html.format.extraLiners": "head, body, /html",
+    	"html.format.indentHandlebars": false,
+    	"html.format.indentInnerHtml": false,
+    	"html.format.maxPreserveNewLines": null,
+    	"html.format.preserveNewLines": true,
+    	"html.format.wrapLineLength": 120,
+		"html.format.wrapAttributes": "auto",
+		"cSpell.words": [
+			"merc",
+			"mers"
+		],
+		"editor.formatOnSave": true,
+		"php-cs-fixer.onsave": true,
+		"markdown.extension.print.onFileSave": true,
+}
